@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regestration Form </title>
+</head>
+<body>
+    <center>
+    <h2 style = "color: brown"> EXAMINATION REGESTRATION FORM </h2>
+    <h4 style = "color: brown"> 2022-23</h4>
+
+<h3>&ensp;&ensp; Fill This Form</h3>
+<form>
+    <table border="3">
+    <tr><td>
+        <center>
+    <br>
+    <label>Name:</label>
+    <input type="text">
+    <label>&ensp;</label>
+    <label>&ensp;</label>
+    <label>DOB:</label>
+    <input type="date">
+    <label>&ensp;</label>
+    <label>&ensp;</label>
+    <label>Email Address:</label>
+    <input type="email"><br><br><br>
+    <label>&ensp;</label>
+   <label>Year:</label>
+   <label>Ist:</label>
+   <input type="checkbox">
+   <label>&ensp;</label>
+   <label>IInd:</label>
+   <input type="checkbox">
+   <label>&ensp;</label>
+   <label>IIIrd:</label>
+   <input type="checkbox">
+   <label>&ensp;</label>
+   <label>IVth:</label>
+   <input type="checkbox">
+   <label>&ensp; &ensp;</label>
+   <label>Upload your Photo: 📷</label>
+   <input type="file" name="" id=""><br><br><br>
+   <label>Mob No:</label>
+   <input type="tel" name="" id="">
+   <label>&ensp;</label>
+   <label>&ensp;</label>
+   <label>Address:</label>
+   <input type="text" size="50"><br><br><br>
+   <label>Create Your Password:</label>
+   <input type="password" name="" id="">
+   <label>&ensp;</label>
+   <label>&ensp;</label>
+   <label>Confirm Your Password:</label>
+   <input type="password" name="" id=""><br><br><br>
+   <label>Choose a Color According to Your Intermediate Marks:</label><br>
+   <p>Red 🔴 for below 50%</p>
+   <p>Orrange 🟠 for 50-75%</p>
+   <p>Yellow 🟡 for 75-90%</p>
+   <p>Green 🟢 for above 90%</p>
+   <label>Choose Color:</label>
+   <input type="color" name="" id="">
+</center>
+<br>
+</td></tr></table><br><br><br>
+<input type="submit" name="" id="">
+</form>
+</center>
+</body>
+</html>
